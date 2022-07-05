@@ -1,0 +1,43 @@
+body {
+  font-family: Roboto;
+  background-color: gold;
+  padding: 20px;
+  
+}
+
+h1 {
+  font-size: 40px;
+  text-align: center;
+  margin-bottom: -5px;
+  font-style: italic;
+}
+
+h2 {
+  font-size: 30px;
+  margin-bottom: 2px;
+}
+
+.container {
+  background-color: white;
+  padding: 15px;
+}
+
+#imgMain {
+  margin-bottom: 20px;
+
+}
+
+.favColor{
+  color: gold;
+}
+
+.about{
+  text-align: center;
+  font-style: italic;
+  font-size: 20px;
+}
+
+footer {
+  text-align: center;
+}
+
